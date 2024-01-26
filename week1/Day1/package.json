@@ -1,0 +1,17 @@
+{
+  "dependencies": {
+    "javascript": "^1.0.0",
+    "nodemon": "^3.0.3"
+  },
+  "name": "day1",
+  "version": "1.0.0",
+  "main": "conditions.js",
+  "devDependencies": {},
+  "scripts": {
+    "start": "nodemon conditions.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
