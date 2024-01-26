@@ -4,4 +4,4 @@ let Person={
     address: "10aad",
     phone: "095348748"
 }
-console.log( phone.length)
+console.log( address.length)
