@@ -8,8 +8,8 @@
   "main": "conditions.js",
   "devDependencies": {},
   "scripts": {
-    "test": "nodemon conditions.js",
     "start": "nodemon object.js"
+   
   },
   "keywords": [],
   "author": "",
