@@ -17,3 +17,7 @@ console.log(hello);
 //Undefined
 let Undefined;
 console.log(undefined)
+
+//Null
+let Null = null;
+console.log(Null)
