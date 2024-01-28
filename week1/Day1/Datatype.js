@@ -18,6 +18,6 @@ console.log( typeof hello);
 let Undefined;
 console.log( typeof undefined)
 
-// //Null
-// let Null = null;
-// console.log( typeofNull)
+//Null
+let Null = null;
+console.log( typeofNull)
