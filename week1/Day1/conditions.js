@@ -39,15 +39,15 @@
 // }
 
 let number = 14;
-if(number <=06){
+if(number === 6){
     console.log("waa somalia")
-}else if(number >=47){
+}else if(number === 47){
     console.log("waa kenya")
-}else if(number <=07){
+}else if(number ===7){
     console.log("waa safaricom")
-}else if(number >=14){
+}else if(number === 14){
     console.log("waa Canada")
-}else if(number >=12){
+}else if(number === 12){
     console.log("waa Us")
 }else{
     console.log("waa khalad")
