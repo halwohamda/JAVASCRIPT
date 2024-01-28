@@ -64,6 +64,6 @@ console.log(result19);
 
 //  equal
 let less141 = 6;
-let less242 = 5;
+let less242 = 6;
 let result79 = less141==less242
 console.log(result79)
