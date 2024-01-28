@@ -6,5 +6,5 @@ console.log("message");
 
 let firstName = "halwo";
 let middleName = "adam",
-let fullname = `${firstName} ${middleName}`
-console.log(fullname);
+let fullName = `${firstName} ${middleName}`
+console.log(fullName);
