@@ -7,3 +7,4 @@ console.log("message");
 let firstname = "halwo";
 let middlename = "adam",
 let fullName = `${firstname} ${middlename}`
+console.log(fullName);
