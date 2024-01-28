@@ -22,3 +22,10 @@ if(name === "halwo,isra, ayaan , aragsan"){
 }else{
     console.log("wasiir :"+name)
 }
+
+if grade = 500;
+if(grade >=90){
+    console.log("A+")
+}else if(grade >=80){
+    console.log("B+")
+}
