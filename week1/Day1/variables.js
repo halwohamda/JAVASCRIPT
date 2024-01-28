@@ -1,5 +1,5 @@
 let message = true;
-console.log("message");
+console.log(message);
 
 
 // VARIABLES
