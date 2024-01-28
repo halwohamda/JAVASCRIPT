@@ -4,7 +4,7 @@ console.log("message");
 
 // VARIABLES
 
-let firstname = "halwo";
-let middlename = "adam",
-let fullName = `${firstname} ${middlename}`
+let firstName = "halwo";
+let middleName = "adam",
+let fullName = `${firstName} ${middleName}`
 console.log(fullName);
