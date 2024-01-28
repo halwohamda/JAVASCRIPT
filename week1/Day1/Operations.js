@@ -60,3 +60,10 @@ let less101 = 6;
 let less202 = 5;
 let result19 = less101>=less202
 console.log(result19);
+
+
+//  equal
+let less141 = 6;
+let less242 = 5;
+let result79 = less141==less242
+console.log(result79)
