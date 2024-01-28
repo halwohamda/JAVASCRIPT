@@ -8,16 +8,16 @@ console.log(typeof number);
 
 //Boolen
 let Admin = true;
-console.log(Admin);
+console.log( typeof Admin);
 
-let hello = false;
-console.log(hello);
+// let hello = false;
+// console.log( typeof hello);
 
 
-//Undefined
-let Undefined;
-console.log(undefined)
+// //Undefined
+// let Undefined;
+// console.log( typeof undefined)
 
-//Null
-let Null = null;
-console.log(Null)
+// //Null
+// let Null = null;
+// console.log( typeofNull)
