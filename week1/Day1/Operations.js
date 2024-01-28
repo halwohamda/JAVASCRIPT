@@ -33,10 +33,10 @@ console.log(`natiijada xisabtani waa : ${result0}`);
 
 // Less than
 
-// let less1 = 6;
-// let less2 = 5;
-// let result9 = less1<less2
-// console.log(result9);
+let less1 = 6;
+let less2 = 5;
+let result9 = less1<less2
+console.log(result9);
 
 
 // // Greater tham
