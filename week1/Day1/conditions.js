@@ -38,11 +38,17 @@
 //     console.log("Dadaal fadlan")
 // }
 
-let number = 09;
-if(number >=06){
+let number = 14;
+if(number <=06){
     console.log("waa somalia")
 }else if(number >=47){
     console.log("waa kenya")
-}else if(number >=07){
+}else if(number <=07){
     console.log("waa safaricom")
+}else if(number >=14){
+    console.log("waa Canada")
+}else if(number >=12){
+    console.log("waa Us")
+}else{
+    console.log("waa khalad")
 }
