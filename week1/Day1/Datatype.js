@@ -14,9 +14,9 @@ let hello = false;
 console.log( typeof hello);
 
 
-// //Undefined
-// let Undefined;
-// console.log( typeof undefined)
+//Undefined
+let Undefined;
+console.log( typeof undefined)
 
 // //Null
 // let Null = null;
