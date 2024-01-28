@@ -10,8 +10,8 @@ console.log(typeof number);
 let Admin = true;
 console.log( typeof Admin);
 
-// let hello = false;
-// console.log( typeof hello);
+let hello = false;
+console.log( typeof hello);
 
 
 // //Undefined
