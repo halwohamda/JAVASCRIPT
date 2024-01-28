@@ -58,5 +58,5 @@ console.log(result09);
 // Greater than or equal
 let less101 = 6;
 let less202 = 5;
-let result99 = less101>less22
-console.log(result99);
+let result19 = less101>=less202
+console.log(result19);
