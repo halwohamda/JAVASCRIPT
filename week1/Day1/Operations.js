@@ -44,3 +44,11 @@ let less11 = 6;
 let less22 = 5;
 let result99 = less11>less22
 console.log(result99);
+
+
+// Less than
+
+let less01 = 6;
+let less02 = 5;
+let result09 = less1<=less2
+console.log(result09);
