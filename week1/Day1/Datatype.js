@@ -12,3 +12,8 @@ console.log(Admin);
 
 let hello = false;
 console.log(hello);
+
+
+//Undefined
+let Undefined;
+console.log(undefined)
