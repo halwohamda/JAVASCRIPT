@@ -9,3 +9,6 @@ console.log(typeof number);
 //Boolen
 let Admin = true;
 console.log(Admin);
+
+let hello = false;
+console.log(hello);
