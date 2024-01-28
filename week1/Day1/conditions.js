@@ -37,3 +37,12 @@ if(grade >=90){
 }else{
     console.log("Dadaal fadlan")
 }
+
+let camp = awbare;
+if(camp === qabribayax1){
+    console.log("waxyarsug")
+}else if(camp === doolo){
+    console.log("wali lama gaadhin")
+}else if( camp === sheeddher){
+    console.log("sanadkadanbe")
+}else if
