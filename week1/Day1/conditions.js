@@ -38,15 +38,11 @@
 //     console.log("Dadaal fadlan")
 // }
 
-let camp = awbare;
-if(camp >= qabribayax1){
-    console.log("waxyarsug")
-}else if(camp >= doolo){
-    console.log("wali lama gaadhin")
-}else if( camp >= sheeddher){
-    console.log("sanadkadanbe")
-}else if(camp >= awbare){
-    console.log("wadbaxaysan")
-}else{
-    console.log("mabatihid")
+let number = 09;
+if(number >=06){
+    console.log("waa somalia")
+}else if(number >=47){
+    console.log("waa kenya")
+}else if(number >=07){
+    console.log("waa safaricom")
 }
