@@ -7,10 +7,18 @@
 
 
 // IF AND ELSE
-let name = "halwo";
+// let name = "halwo";
 
-if(name == 'halwo'){
-    console.log("soo dhowow  marwo: "+name)
+// if(name == 'halwo'){
+//     console.log("soo dhowow  marwo: "+name)
+// }else{
+//     console.log("soodhawoow mudane : "+name)
+// }
+ 
+
+let name = "isra";
+if(name === "halwo,isra, ayaan , aragsan"){
+    console.log("wasiirad :"+name)
 }else{
-    console.log("soodhawoow mudane : "+name)
+    console.log("wasiir :"+name)
 }
