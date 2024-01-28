@@ -39,8 +39,8 @@ let result9 = less1<less2
 console.log(result9);
 
 
-// // Greater tham
-// let less11 = 6;
-// let less22 = 5;
-// let result99 = less11>less22
-// console.log(result99);
+// Greater tham
+let less11 = 6;
+let less22 = 5;
+let result99 = less11>less22
+console.log(result99);
