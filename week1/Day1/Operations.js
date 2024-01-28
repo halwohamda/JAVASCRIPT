@@ -46,9 +46,17 @@ let result99 = less11>less22
 console.log(result99);
 
 
-// Less than
+// Less  or Equal
 
 let less01 = 6;
 let less02 = 5;
-let result09 = less1<=less2
+let result09 = less01<=less02
 console.log(result09);
+
+
+
+// // Greater than or equal
+// let less101 = 6;
+// let less202 = 5;
+// let result99 = less101>less22
+// console.log(result99);
