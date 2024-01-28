@@ -16,16 +16,24 @@
 // }
  
 
-let name = "isra";
-if(name === "halwo,isra, ayaan , aragsan"){
-    console.log("wasiirad :"+name)
-}else{
-    console.log("wasiir :"+name)
-}
+// let name = "isra";
+// if(name === "halwo,isra, ayaan , aragsan"){
+//     console.log("wasiirad :"+name)
+// }else{
+//     console.log("wasiir :"+name)
+// }
 
-if grade = 500;
+let grade = 500;
 if(grade >=90){
     console.log("A+")
 }else if(grade >=80){
     console.log("B+")
+}else if(grade >=70){
+    console.log("B")
+}else if(grade >=60){
+    console.log("C")
+}else if(grade >=50){
+    console.log("failed")
+}else{
+    console.log("Dadaal fadlan")
 }
