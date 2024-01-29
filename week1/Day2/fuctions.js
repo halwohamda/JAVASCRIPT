@@ -6,4 +6,4 @@ add();
 function sus(){
     console.log(5-2)
 }
-sus()
+sus();
