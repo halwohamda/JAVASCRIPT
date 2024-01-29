@@ -31,4 +31,4 @@ function magac(name1,name2,name3){
     console.log("hamda" ,"adam","abdi")
 }
 
-magac()
+magac();
