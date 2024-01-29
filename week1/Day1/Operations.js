@@ -68,8 +68,11 @@ let less242 = 6;
 let result79 = less141==less242
 console.log(result79);
 
+ 
 
-let notEqual = 9;
+/// Not Equal
+let notEqual = 4;
 let notequal = 5;
 let resultt = notEqual !== notequal
-console.log(resultt);
+console.log(`isma leeka : ${resultt}`);
+
