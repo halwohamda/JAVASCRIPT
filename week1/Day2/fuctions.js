@@ -19,3 +19,9 @@ function mul(a,b){
     return a*b;
 }
 console.log(4*7);
+
+
+function dev(){
+    console.log(3/9)
+}
+dev()
