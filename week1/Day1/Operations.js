@@ -69,5 +69,5 @@ let result79 = less141==less242
 console.log(result79);
 
 
-let notEqual = 9
-let notequal = 5
+let notEqual = 9;
+let notequal = 5;
