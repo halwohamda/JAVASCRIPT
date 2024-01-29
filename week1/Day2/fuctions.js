@@ -25,3 +25,6 @@ function dev(){
     console.log(3/9)
 }
 dev();
+
+
+function magac(name1,name2,name3)
