@@ -76,3 +76,13 @@ let notequal = 5;
 let resultt = notEqual !== notequal
 console.log(`isma leeka : ${resultt}`);
 
+
+// companisons
+
+let comparison1 = 6;
+let companison2 = 6;
+let resullt = comparison1 === companison2
+console.log(resullt)
+
+
+
