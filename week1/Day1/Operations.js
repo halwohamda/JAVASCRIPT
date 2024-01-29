@@ -82,7 +82,7 @@ console.log(`isma leeka : ${resultt}`);
 let comparison1 = 8;
 let companison2 = 3;
 let resullt = comparison1 === companison2
-console.log(resullt)
+console.log(resullt);j
 
 
 
