@@ -71,5 +71,5 @@ console.log(result79);
 
 let notEqual = 9;
 let notequal = 5;
-let resultt = notEqual !== notequal
-console.log(resultt)
+let resultt = notEqual !== notequal;
+console.log(resultt);
