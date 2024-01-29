@@ -18,4 +18,4 @@ console.log(2+2);
 function mul(a,b){
     return a*b;
 }
-console.log(4*7)
+console.log(4*7);
