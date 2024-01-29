@@ -79,8 +79,8 @@ console.log(`isma leeka : ${resultt}`);
 
 // companisons
 
-let comparison1 = 6;
-let companison2 = 6;
+let comparison1 = 8;
+let companison2 = 3;
 let resullt = comparison1 === companison2
 console.log(resullt)
 
