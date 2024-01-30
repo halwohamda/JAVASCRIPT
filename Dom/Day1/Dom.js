@@ -24,5 +24,5 @@ car.innerText = 'carrr';
 document.querySelector('.hi').innerHTML = 'gallinkaHore';
 
 let galinka = document.querySelector('.hi');
-galinka.innerText = 'subaxa'
+galinka.innerText = 'subaxa';
 
