@@ -29,7 +29,7 @@ galinka.innerText = 'subaxa';
 
 /// by class
 
-document.getElementsByClassName('hi').innerHTML = 'arorta'
+document.getElementsByClassName('hi').innerHTML = 'arorta';
 
 
 
