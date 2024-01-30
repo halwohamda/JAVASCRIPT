@@ -9,7 +9,7 @@ hello.innerText = 'hello hargaysa';
 document.getElementById('car').innerText = 'gaadhi';
 
 let carr = document.getElementById('car');
-carr.innerText = 'gawaadhi';
+carr.innerText = 'gawaadhi🚗';
 
 /// by id
 document.querySelector('#car').innerHTML = 'gaadhiyaal🚗🚗';
