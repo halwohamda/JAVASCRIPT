@@ -7,3 +7,5 @@ hello.innerText = 'hello hargaysa';
 // by Id
 
 document.getElementById('car').innerText = 'gaadhi';
+
+let car = document.getElementById('car');
