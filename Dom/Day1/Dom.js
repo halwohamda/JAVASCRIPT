@@ -17,4 +17,4 @@ document.querySelector('#car').innerHTML = 'gaadhiyaal';
 
 let car = document.querySelector('#car');
 
-car.innerText = 'carrr'
+car.innerText = 'carrr';
