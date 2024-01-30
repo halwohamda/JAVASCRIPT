@@ -9,3 +9,4 @@ hello.innerText = 'hello hargaysa';
 document.getElementById('car').innerText = 'gaadhi';
 
 let car = document.getElementById('car');
+car.innerText = 'gawaadhi'
