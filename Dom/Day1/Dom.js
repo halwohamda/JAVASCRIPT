@@ -12,7 +12,7 @@ let carr = document.getElementById('car');
 carr.innerText = 'gawaadhi';
 
 /// by id
-document.querySelector('#car').innerHTML = 'gaadhiyaal';
+document.querySelector('#car').innerHTML = 'gaadhiyaal🚗🚗';
 
 
 let car = document.querySelector('#car');
