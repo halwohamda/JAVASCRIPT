@@ -1,5 +1,5 @@
-function hello (){
-    hello= 'hello world'
+function greet (){
+    hello( "hello world")
     
 }
 hello()
