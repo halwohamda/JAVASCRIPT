@@ -6,7 +6,7 @@ hello.innerText = 'hello hargaysa🌹';
 
 // get element by id
 
-document.getElementById('car').innerText = 'gaadhi🤳';
+document.getElementById('car').innerText = 'gaadhi';
 
 let carr = document.getElementById('car');
 carr.innerText = 'gawaadhi🚗';
