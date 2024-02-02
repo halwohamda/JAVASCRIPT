@@ -1,13 +1,12 @@
-let Add = document.getElementById('Add');
-let Eber = document.getElementById("Eber");
+let start = document.getElementById('start');
+let Timer = document.getElementById("Timer");
 
-let eber
+let timer
 
-
-Add.addEventListener('click',()=>{
+start.addEventListener('click',()=>{
     let seconds = 0
-    eber = setInterval(()=>{
-        Eber.innerHTML = +seconds
+    timer = setInterval(()=>{
+        Timer.innerHTML = +seconds
         seconds++
-    },1000)
+    },100)
 })
