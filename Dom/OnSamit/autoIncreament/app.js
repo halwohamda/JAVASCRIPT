@@ -1,13 +1,13 @@
-let start = document.getElementById('start');
-let Timer  = document.getElementById("Timer");
+let Add = document.getElementById('App');
+let Eber = document.getElementById('Eber');
 
-let timer 
+let eber
 
-start.addEventListener('click',()=>{
+
+Add.addEventListener('click',()=>{
     let seconds = 0
-    timer = setInterval(()=>{
-        // Timer.innerHTML = Math.random(+seconds)*1000
-        Timer.innerHTML = +seconds
+    eber = setInterval(()=>{
+        Eber.innerHTML = +seconds
         seconds++
-    },100)
+    },1000)
 })
