@@ -1,5 +1,5 @@
-// let adde = document.getElementById('adder');
-// let adder = 0
+let adde = document.getElementById('adder');
+let adder = 0
 
 
 function Add(){
