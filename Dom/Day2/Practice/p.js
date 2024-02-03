@@ -12,7 +12,7 @@ form.addEventListener('click',(e)=>{
         p.innerHTML = InputValue.value
         div.appendChild(p)
         InputValue.value = '';
-     }
+     };
  
 
 });
