@@ -1,6 +1,6 @@
-// let form = document.querySelector('form');
-// let InputValue = document.getElementById('InputValue');
-// let div = document.querySelector('div');
+let form = document.querySelector('form');
+let InputValue = document.getElementById('InputValue');
+let div = document.querySelector('div');
 
 form.addEventListener('click',(e)=>{
      e.preventDefault();
