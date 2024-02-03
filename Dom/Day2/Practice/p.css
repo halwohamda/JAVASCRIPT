@@ -1,0 +1,35 @@
+body{
+    background-color: rgb(20, 33, 34);
+}
+
+
+div{
+    background-color: rgb(234, 241, 241);
+    color: #0076ba;
+    padding: px;
+    margin: 10px;
+    font-size: 10px;
+    text-align: left;
+    border-radius: 2px;
+    border: whitesmoke;
+}
+#InputValue{
+    background-color: #0076ba;
+    text-align: center;
+    color: white;
+    box-shadow: 1px 1px 2px rgb(173, 146, 172);
+    padding: auto;
+    outline: none;
+    border-radius: 20px;
+    
+}
+#submit{
+    background-color: #0076ba;
+    color: white;
+    box-shadow: 1px 1px 2px rgb(173, 146, 172);
+    padding: auto;
+    outline: none;
+    margin-left: 20px;
+    border-radius: 20px;
+
+}
