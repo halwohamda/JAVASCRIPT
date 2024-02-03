@@ -4,7 +4,7 @@
 
 function Add(){
     adde.innerHTML= adder++
-}
+};
 function add(){
     adde.innerHTML= adder--
 };
