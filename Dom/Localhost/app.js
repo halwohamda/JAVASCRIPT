@@ -15,7 +15,7 @@ btnAdd.addEventListener('click',()=>{
 
 })
 btnDeleted.addEventListener('click',()=>{
-    dataList.remove()
+    dataList.remove();
 })
 
 
