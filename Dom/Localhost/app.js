@@ -5,4 +5,7 @@ const btnDeleted = document.getElementById("btnDeleted");
 
 
 
-
+btnAdd.addEventListener('click',()=>{
+    const data = inputTask.value;
+    localStorage.setItem("data",data);
+})
