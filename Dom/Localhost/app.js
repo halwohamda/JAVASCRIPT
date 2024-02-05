@@ -10,5 +10,7 @@ btnAdd.addEventListener('click',()=>{
     localStorage.setItem("data",data);
     const p = document.createElement("p");
     p.innerHTML = data;
-    
+    dataList.appendChild('p')
+    inputTask.value = '';
+
 })
