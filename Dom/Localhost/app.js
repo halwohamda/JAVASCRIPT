@@ -14,7 +14,7 @@ const btnDeleted = document.getElementById("btnDeleted");
 //     inputTask.value = ''
 
 // })
-btnDeleted.addEventListener('click',()=>{
+// btnDeleted.addEventListener('click',()=>{
     dataList.remove();
 });
 
