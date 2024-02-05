@@ -16,7 +16,7 @@ btnAdd.addEventListener('click',()=>{
 })
 btnDeleted.addEventListener('click',()=>{
     dataList.remove();
-});
+})
 
 
 const savedData = localStorage.getItem("data");
