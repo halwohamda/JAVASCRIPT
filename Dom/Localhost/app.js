@@ -19,7 +19,7 @@ btnDeleted.addEventListener('click',()=>{
 })
 
 
-const savedData = localStorage.getItem("data")
+const savedData = localStorage.getItem("data");
 if(savedData){
     const p = document.createElement("p");
     p.innerHTML = savedData
