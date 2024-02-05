@@ -21,7 +21,7 @@ btnDeleted.addEventListener('click',()=>{
 
 const savedData = localStorage.getItem("data");
 if(savedData){
-    const p = document.createElement("p");
+    const p = document.createElement("p")
     p.innerHTML = savedData
     dataList.appendChild(p)
 };
