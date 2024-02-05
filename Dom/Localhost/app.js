@@ -13,10 +13,10 @@ btnAdd.addEventListener('click',()=>{
     dataList.appendChild(p);
     inputTask.value = ''
 
-// })
-// btnDeleted.addEventListener('click',()=>{
-//     dataList.remove();
-// });
+})
+btnDeleted.addEventListener('click',()=>{
+    dataList.remove();
+});
 
 
 // const savedData = localStorage.getItem("data");
