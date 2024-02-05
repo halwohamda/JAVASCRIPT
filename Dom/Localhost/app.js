@@ -15,8 +15,8 @@ const btnDeleted = document.getElementById("btnDeleted");
 
 // })
 // btnDeleted.addEventListener('click',()=>{
-    dataList.remove();
-});
+//     dataList.remove();
+// });
 
 
 // const savedData = localStorage.getItem("data");
