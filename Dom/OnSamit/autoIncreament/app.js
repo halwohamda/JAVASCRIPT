@@ -1,5 +1,5 @@
 let start = document.getElementById('start')
-let Timer = document.getElementById("Timer")
+let Timer = document.getElementById("Timer");
 
 let timer
 
