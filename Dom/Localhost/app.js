@@ -10,10 +10,10 @@ const btnDeleted = document.getElementById("btnDeleted");
 //     localStorage.setItem("data",data);
 //     const p = document.createElement("p");
 //     p.innerHTML = data;
-    dataList.appendChild(p);
-    inputTask.value = ''
+//     dataList.appendChild(p);
+//     inputTask.value = ''
 
-})
+// })
 btnDeleted.addEventListener('click',()=>{
     dataList.remove();
 });
