@@ -14,3 +14,12 @@ btnAdd.addEventListener('click',()=>{
     inputTask.value = '';
 
 })
+btnDeleted.addEventListener('click',()=>{
+    dataList.remove();
+})
+
+
+const savedData = localStorage.getItem("data");
+if(savedData){
+    const p = document.createElement("p");
+}
