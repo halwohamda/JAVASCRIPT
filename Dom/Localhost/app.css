@@ -1,0 +1,28 @@
+#inputTask{
+    border-radius: 20px;
+    background-color: rgb(0, 18, 19);
+    outline: none;
+    color: wheat;
+    justify-content: center;
+    transform: translateX(100px);
+    margin-right: 20px;
+    text-align: center;
+
+}
+#btnAdd{
+    transform: translateX(100px);
+    outline: none;
+    background-color: rgb(0, 33, 22);
+    text-align: center;
+    color: wheat;
+    padding: 2px;
+}
+
+#btnDeleted{
+    transform: translateX(120px);
+    outline: none;
+    background-color: rgb(0, 33, 22);
+    text-align: center;
+    color: wheat;
+    padding: 2px;
+}
