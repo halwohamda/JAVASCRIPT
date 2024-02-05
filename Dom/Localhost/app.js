@@ -11,7 +11,7 @@ btnAdd.addEventListener('click',()=>{
     const p = document.createElement("p")
     p.innerHTML = data;
     dataList.appendChild(p)
-    inputTask.value = '';
+    inputTask.value = ''
 
 })
 btnDeleted.addEventListener('click',()=>{
