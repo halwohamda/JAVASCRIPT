@@ -5,7 +5,23 @@ let p = document.querySelector('p');
 
 
 btnSubmit.addEventListener('click',()=>{
-    const getData = input.value
-    p.innerHTML=getData
-    
+    const data = input.value
+    localStorage.setItem('data',data);
+    let li = document.createElement('li')
+    li.innerHTML = data;
+    p.appendChild(li)
+    input.value ='';
+
+
 })
+
+btnDelete.addEventListener('click',()=>{
+      p.remove();
+})
+
+
+const Saved = localStorage.getItem('data')
+if(Saved){
+    const data = input.value
+    let li = document
+}
