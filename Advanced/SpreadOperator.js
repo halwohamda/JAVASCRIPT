@@ -1,10 +1,10 @@
-let Item = ['moos','canbe','liiin'];
-let NewItem = ['xabxab','milix','sonkor'];
+// let Item = ['moos','canbe','liiin'];
+// let NewItem = ['xabxab','milix','sonkor'];
 
-let items = ()=>{
-    return [...Item,NewItem]
-}
-console.log(items())
+// let items = ()=>{
+//     return [...Item,NewItem]
+// }
+// console.log(items())
 
 
 let person = [
@@ -14,4 +14,16 @@ let person = [
         phone:'987654'
     }
 ]
-console.log
+let newPerson = [
+    {
+        id:2,
+        name: 'suama',
+        address:'2345'
+    }
+]
+
+let persons = ()=>{
+  return [...person,newPerson]
+}
+
+console.log(persons())
