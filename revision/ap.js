@@ -23,5 +23,6 @@ btnDelete.addEventListener('click',()=>{
 const Saved = localStorage.getItem('data')
 if(Saved){
     const data = input.value
-    let li = document
+    let li = document.createElement('li');
+    
 }
