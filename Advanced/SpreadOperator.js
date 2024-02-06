@@ -22,8 +22,14 @@ let newPerson = [
     }
 ]
 
+// let persons = ()=>{
+//   return [...person,newPerson]
+// }
+
+// console.log(persons())
+
 let persons = ()=>{
-  return [...person,newPerson]
+    console.log([...person,newPerson])
 }
 
-console.log(persons())
+persons();
