@@ -28,8 +28,10 @@ let newPerson = [
 
 // console.log(persons())
 
+
+/// 
 let persons = ()=>{
-    console.log([...person,newPerson])
+    console.log([...person,newPerson]);
 }
 
 persons();
