@@ -6,4 +6,4 @@ const magacyo = ()=>{
 magacyo();
 
 
-console.log(magacyo())
+console.log(magacyo());
