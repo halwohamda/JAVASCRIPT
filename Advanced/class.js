@@ -6,6 +6,10 @@ class Hospital {
         this.Address = Address;
         this.DateTime =DateTime;
     }
+
+    getHostipal(){
+        return `id:${this.id} first`
+    }
 }
 
 
