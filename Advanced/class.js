@@ -1,13 +1,9 @@
- export class Company {
- constructor(id,firstName,LastName){
+class Hospital {
+    constructor(id,firstName,LastName,Address,DateTime){
         this.id = id;
         this.firstName = firstName;
         this.LastName = LastName;
-
-    }
-    
-   getCompany(){
-    return`id:${this.id} firstName:${this.firstName} LastName:${this.LastName}` 
+        this.Address = Address;
     }
 }
 
