@@ -6,4 +6,4 @@ class Company{
     this.Address = Address;
     this.Phone = Phone;
   } 
-}
+};
