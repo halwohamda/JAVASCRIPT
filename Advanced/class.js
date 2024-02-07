@@ -8,8 +8,9 @@ class Hospital {
     }
 
     getHostipal(){
-        return `id:${this.id} first`
+        return `id:${this.id} first:${this.firstName} LastName:${this.LastName} Address:${this.Address} DateTime:${this.DateTime}`
     }
 }
 
-
+const Hospital1 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+console.log(Hospital)
