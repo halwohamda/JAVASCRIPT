@@ -5,9 +5,9 @@ class Company {
         this.LastName = LastName;
 
     }
+    
+   getCompany(){
+    return`id:${this.id} ` 
+    }
 }
 
-
-getCompany(){
-    return``
-}
