@@ -4,6 +4,7 @@ class Hospital {
         this.firstName = firstName;
         this.LastName = LastName;
         this.Address = Address;
+        this.DateTime =DateTime;
     }
 }
 
