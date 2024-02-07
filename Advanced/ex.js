@@ -1,7 +1,7 @@
 import {Hospital} from './class.js'
 const Hospital1 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
-const Hospital2 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
-const Hospital3 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital2 = new Hospital(1, 'HAMDA','adam','10aad',new Date());
+const Hospital3 = new Hospital(1, 'HAMDA','adam','10aad',new Date());
 const Hospital4 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
 const Hospital5 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
 const Hospital6 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
