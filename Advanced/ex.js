@@ -1,11 +1,11 @@
-import {Company} from './class.js'
-const Company1 = new Company (1,'hamda','abdi',)
-const Company2 = new Company (1,'hamda','abdi',)
-const Company3 = new Company (1,'hamda','abdi',)
-const Company4 = new Company (1,'hamda','abdi',)
-const Company5 = new Company (1,'hamda','abdi',)
-const Company6 = new Company (1,'hamda','abdi',)
-const Company7 = new Company (1,'hamda','abdi',)
 
-
-console.log(Company1,Company2,Company3,Company4,Company5,Company6,Company7)
+const Hospital1 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital2 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital3 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital4 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital5 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital6 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital7 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital8 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital9 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+console.log(Hospital1,Hospital2,Hospital3,Hospital3,Hospital4,Hospital5,Hospital6,Hospital7,Hospital8);
