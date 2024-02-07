@@ -7,6 +7,6 @@ class Company{
     this.Phone = Phone;
   } 
 }
-Company();
+Company()
 
 console.log(Company())
