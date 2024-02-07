@@ -10,6 +10,6 @@
     getHostipal(){
         return `id:${this.id} first:${this.firstName} LastName:${this.LastName} Address:${this.Address} DateTime:${this.DateTime}`
     };
-}
+};
 
 
