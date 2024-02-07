@@ -9,4 +9,4 @@ class Company{
 }
 Company();
 
-console.log(Company());
+console.log(Company())
