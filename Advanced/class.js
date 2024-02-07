@@ -7,6 +7,3 @@ class Company{
     this.Phone = Phone;
   } 
 }
-Company()
-
-console.log(Company())
