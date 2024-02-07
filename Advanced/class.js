@@ -12,5 +12,5 @@ class Hospital {
     }
 }
 
-const Hospital1 = new Hospital(1, 'HAMDA','adam','10aad',new Date())
+const Hospital1 = new Hospital(1, 'HAMDA','adam','10aad',new Date());
 console.log(Hospital);
