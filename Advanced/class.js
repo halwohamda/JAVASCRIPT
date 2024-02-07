@@ -12,8 +12,8 @@ class Company {
 }
 
 const Company1 = new Company (1,'hamda','abdi',)
-const Company2 = new Company (1,'hamda','abdi',);
-const Company3 = new Company (1,'hamda','abdi',)
+const Company2 = new Company (1,'hamda','abdi',)
+const Company3 = new Company (1,'hamda','abdi',);
 const Company4 = new Company (1,'hamda','abdi',)
 const Company5 = new Company (1,'hamda','abdi',)
 const Company6 = new Company (1,'hamda','abdi',)
