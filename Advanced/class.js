@@ -1,4 +1,4 @@
-class Hospital {
+ export class Hospital {
     constructor(id,firstName,LastName,Address,DateTime){
         this.id = id;
         this.firstName = firstName;
