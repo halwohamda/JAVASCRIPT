@@ -3,8 +3,8 @@
         this.id = id;
         this.firstName = firstName;
         this.LastName = LastName;
-        this.Address = Address;
-        this.DateTime =DateTime;
+        this.Address = Address
+        this.DateTime =DateTime
     }
 
     getHostipal(){
