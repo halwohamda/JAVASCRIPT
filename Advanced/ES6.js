@@ -4,6 +4,9 @@ const filternumbers = numbers.filter(numbers =>{
     console.log(natijo)
 });
 
+
+
+
 // map
 const names = ["ISRA","HAMDA"]
 const mapnames = names.map(names=>{
