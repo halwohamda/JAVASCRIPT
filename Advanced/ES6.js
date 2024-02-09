@@ -4,3 +4,8 @@ const filternumbers = numbers.filter(numbers =>{
     console.log(natijo)
 });
 
+/// map
+const names = [hamda,adan,abdi]
+const mapnames = names.map(names=>{
+    return 
+})
