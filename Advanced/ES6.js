@@ -17,4 +17,4 @@ console.log(mapnames);
 
 // Reduce
 
-const reducenumber =
+const reducenumber = numbers.reduce
