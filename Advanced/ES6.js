@@ -8,7 +8,7 @@ const filternumbers = numbers.filter(numbers =>{
 
 
 // map
-const names = ["ISRA","HAMDA"]
+// const names = ["ISRA","HAMDA"]
 // const mapnames = names.map(names=>{
     // return names.toLowerCase();
 // })
