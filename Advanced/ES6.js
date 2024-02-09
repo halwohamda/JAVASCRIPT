@@ -13,3 +13,8 @@ const mapnames = names.map(names=>{
     return names.toLowerCase();
 })
 console.log(mapnames);
+
+
+// Reduce
+
+const reducenumber =
