@@ -23,3 +23,10 @@ console.log(reducenumber);
 
 
 // ForEach
+const persons = [
+    {id:1,name:"hamda",address:"jigjiga"}
+]
+
+persons.forEach(person=>{
+    console.log(person)
+})
