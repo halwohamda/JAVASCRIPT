@@ -7,5 +7,7 @@ const filternumbers = numbers.filter(numbers =>{
 /// map
 const names = [hamda,adan,abdi]
 const mapnames = names.map(names=>{
-    return 
+    return names.toUpperCase();
+    
 })
+console.log(mapnames)
