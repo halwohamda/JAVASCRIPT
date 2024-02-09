@@ -9,4 +9,4 @@ const names = ["ISRA","HAMDA"]
 const mapnames = names.map(names=>{
     return names.toLowerCase();
 })
-console.log(mapnames)
+console.log(mapnames);
