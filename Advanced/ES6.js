@@ -20,4 +20,4 @@ console.log(mapnames);
 const reducenumber = numbers.reduce(total,number)=>{
     return total+numbers
 }
-console.log(reducenumber)
+console.log(reducenumber);
