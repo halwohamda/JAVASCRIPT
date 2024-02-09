@@ -30,5 +30,5 @@ const persons = [
 
 persons.forEach(person=>{
     console.log(person)
-})
+});
 
