@@ -26,9 +26,9 @@ console.log(reducenumber);
 const persons = [
     {id:1,name:"hamda",address:"jigjiga"},
     {id:1,name:"isra",address:"saylada"}
-]
+];
 
 persons.forEach(person=>{
-    console.log(person)
-})
+    console.log(person);
+});
 
